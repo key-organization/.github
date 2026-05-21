@@ -4,10 +4,6 @@
   <i>Building backend systems, tools, and scalable solutions with Kotlin & Java.</i>
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/b1/4f/7b/b14f7bd3cb7d679ef113016d90efa097.jpg" width="100%" />
-</p>
-
 ---
 
 ## hey~ welcome to `Key`
